@@ -1,6 +1,6 @@
 import cv2
 
-path = "gura.png"
+path = "image.png"
 
 img = cv2.imread(path, 0)
 
